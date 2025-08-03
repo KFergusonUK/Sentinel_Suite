@@ -1,0 +1,36 @@
+Street Works Sentinel - License Agreement
+=========================================
+
+Copyright (c) 2025 Kevin Ferguson. All rights reserved.
+
+This software, including all related components and modules (hereafter referred to as “Street Works Sentinel”), is provided free of charge for use by individuals and local authorities, subject to the terms below.
+
+You are permitted to:
+----------------------
+- Use Street Works Sentinel for your own use, including internal use within a public authority or non-commercial organisation.
+- Share unmodified compiled versions of the program with colleagues or within your organisation.
+- Provide feedback or suggestions to improve the software.
+
+You may NOT:
+------------
+- Sell, sublicense, or commercially distribute Street Works Sentinel without written permission from the author.
+- Reverse engineer, decompile, disassemble, or modify the program or any of its components.
+- Use the software in a way that violates UK laws or regulations.
+
+Future Licensing and Commercial Use:
+------------------------------------
+Street Works Sentinel is currently offered free of charge. The author reserves the right to introduce paid versions, commercial licenses, or feature-limited editions in the future. Continued access or support may be subject to change at any time.
+
+Liability Disclaimer:
+---------------------
+This software is provided “as is,” without warranty of any kind, express or implied. The author shall not be held liable for any loss, damage, or errors arising from the use of this software.
+
+Contact:
+--------
+For licensing requests, commercial use inquiries, or support:
+Kevin Ferguson  
+KevinFerguson@Hotmail.co.uk
+
+-----------------------------------------
+Version 1.0  
+Released: August 2025
