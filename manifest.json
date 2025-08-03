@@ -1,20 +1,20 @@
 {
   "version_info": {
     "launcher": {
-      "version": "1.0.0",
-      "url": "https://github.com/KFergusonUK/Sentinel_Suite/updates/Launcher_v1.0.0.zip"
+      "version": "1.0.1",
+      "url": "https://github.com/KFergusonUK/Sentinel_Suite/raw/main/releases/Launcher_v1.0.1.zip"
     },
     "fpn_sentinel": {
       "version": "1.0.0",
-      "url": "https://github.com/KFergusonUK/Sentinel_Suite/updates/FPNSentinel_v1.0.0.zip"
+      "url": "https://github.com/KFergusonUK/Sentinel_Suite/raw/main/releases/FPNSentinel_v1.0.0.zip"
     },
     "tpi_sentinel": {
       "version": "1.0.0",
-      "url": "https://github.com/KFergusonUK/Sentinel_Suite/updates/TPISentinel_v1.0.0.zip"
+      "url": "https://github.com/KFergusonUK/Sentinel_Suite/raw/main/releases/TPISentinel_v1.0.0.zip"
     },
     "management_sentinel": {
       "version": "1.0.0",
-      "url": "https://github.com/KFergusonUK/Sentinel_Suite/updates/ManagementSentinel_v1.0.0.zip"
+      "url": "https://github.com/KFergusonUK/Sentinel_Suite/raw/main/releases/ManagementSentinel_v1.0.0.zip"
     }
   },
   "messages": {
