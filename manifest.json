@@ -1,0 +1,23 @@
+{
+  "version_info": {
+    "launcher": {
+      "version": "1.0.0",
+      "url": "https://www.streetworksai.co.uk/updates/Launcher_v1.0.0.zip"
+    },
+    "fpn_sentinel": {
+      "version": "1.0.0",
+      "url": "https://www.streetworksai.co.uk/updates/FPNSentinel_v1.0.0.zip"
+    },
+    "tpi_sentinel": {
+      "version": "1.0.0",
+      "url": "https://www.streetworksai.co.uk/updates/TPISentinel_v1.0.0.zip"
+    },
+    "management_sentinel": {
+      "version": "1.0.0",
+      "url": "https://www.streetworksai.co.uk/updates/ManagementSentinel_v1.0.0.zip"
+    }
+  },
+  "messages": {
+    "news": "Welcome to the Sentinel Suite! All tools are up to date."
+  }
+}
