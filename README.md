@@ -1,4 +1,4 @@
-# Sentinel Suite v1.2.0
+# Sentinel Suite v1.0.0
 
 A unified suite of analysis tools for Street Manager data, designed for UK local authorities and utility companies.
 
