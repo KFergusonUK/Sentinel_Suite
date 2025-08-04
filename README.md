@@ -17,7 +17,7 @@ All tools are brought together in a single, self-updating launcher for ease of u
 ## Getting Started
 
 1.  Go to the [**Releases Page**](https://github.com/KFergusonUK/Sentinel_Suite/releases) on the right.
-2.  Download the `Sentinel.Suite.v1.2.0.zip` file from the latest release.
+2.  Download the `Sentinel.Suite.v1.0.0.zip` file from the latest release.
 3.  Unzip the folder to a location on your computer (e.g., your Desktop).
 4.  Run `Launcher.exe`. The application will handle all future updates automatically.
 
