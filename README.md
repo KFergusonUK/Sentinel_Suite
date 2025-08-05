@@ -9,7 +9,7 @@ A unified suite of analysis tools for Street Manager data, designed for UK local
 The Sentinel Suite provides a user-friendly interface for performing complex analysis on Street Manager data exports. The suite includes:
 
 *   **FPN Sentinel:** Detects potential Fixed Penalty Notice (FPN) and Section 74 overrun candidates.
-*   **TPI Sentinel:** Calculates and visualizes the national an local TPIs.
+*   **TPI Sentinel:** Calculates and visualizes local TPIs.
 *   **Management Sentinel:** A high-level dashboard for analyzing user activity, works, FPNs, and inspections.
 
 All tools are brought together in a single, self-updating launcher for ease of use.
