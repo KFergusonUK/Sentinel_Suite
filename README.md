@@ -21,6 +21,7 @@ All tools are brought together in a single, self-updating launcher for ease of u
 3.  Unzip the folder to a location on your computer (e.g., your Desktop).
 4.  Run `Launcher.exe`. The application will handle all future updates automatically.
 5.  Should you need further assistance please try reading the [**Guide**](https://github.com/KFergusonUK/Sentinel_Suite/blob/main/Guide.md)
+6.  Common issues are reference in the [**FAQ**](FAQ.md)
 
 ## License
 
