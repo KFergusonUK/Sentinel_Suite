@@ -37,6 +37,8 @@
 
 **Q:** Who decided the order of the TPIs?\
 **A:** The TPIs are primarily setup to reflect the HAUC TPI Advice note from 2016, though many providers have now created their own.  TPI Sentinel attempts to marry the HAUC list with the commonly referenced TPI list authorities use.\\
+
+
 **FPN Sentinel:**\
 
 **Q:** Are the FPNs listed definite FPNs I can just issue?\
