@@ -29,6 +29,8 @@
 
 
 **TPI Sentinel:**\
+**Q:** Why does TPI Sentinel not use Download All My Data (DAMD) files?\
+**A:** TPIs are often generated over longer periods of time, usually one year. As DAMD files can only be exported in one month sections, this would require twelve exports from DAMD, whereas the Works tab, etc, can quickly export over one year of data, meaning only three exports. So for this reason I chose to use the three exports instead for the TPI module.\
 **Q:** How do I access specific TPI reports on TPI Sentinel?\
 **A:** You can find a breakdown of each TPI under the “Reporting” menu.\
 
