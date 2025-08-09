@@ -30,7 +30,7 @@
 
 **TPI Sentinel:**\
 **Q:** How do I access specific TPI reports on TPI Sentinel?\
-**A:** You can find a breakdown off each TPI under the “Reporting” menu.\
+**A:** You can find a breakdown of each TPI under the “Reporting” menu.\
 
 **Q:** The figures in TPI Sentinel are slightly different from my API reports, why is this?\
 **A:** Reporting elements are configured slightly differently in each program. This can account for small discrepancies in the data.  Should you notice larger discrepancies, please contact Kevin Ferguson.\
