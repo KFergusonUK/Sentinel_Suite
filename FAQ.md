@@ -21,7 +21,7 @@
 **Q:** How do I see a more detailed view of a staff member/activity report?\
 **A:** You can find out more on most charts/graphs within the Management Sentinel by clicking on the bar chart column you are interested in.\
 
-**Q:** What I try to get the source data I am directed to a webpage I can’t see, why?\
+**Q:** When I try to get the source data I am directed to a webpage I can’t see, why?\
 **A:** To access the Street Manager, Download All My Data page you will need sufficient administrative access.  Speak with your account administrator.\
 
 **Q:** I work for a Utility, how can I see Management reports for my data?\
