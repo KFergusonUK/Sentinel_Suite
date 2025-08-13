@@ -20,8 +20,9 @@ All tools are brought together in a single, self-updating launcher for ease of u
 2.  Download the `Sentinel.Suite.v1.0.0.zip` file from the latest release.
 3.  Unzip the folder to a location on your computer (e.g., your Desktop).
 4.  Run `Launcher.exe`. The application will handle all future updates automatically.
-5.  Should you need further assistance please try reading the [**Guide**](https://github.com/KFergusonUK/Sentinel_Suite/blob/main/Guide.md)
-6.  Common questions are answered in the [**FAQ**](FAQ.md)
+5.  The Sentinel Suite zip file contains a small section of fake generated data for use with both FPN and Management Sentinel.  Feel free to delete this file/folder.
+6.  Should you need further assistance please try reading the [**Guide**](https://github.com/KFergusonUK/Sentinel_Suite/blob/main/Guide.md)
+7.  Common questions are answered in the [**FAQ**](FAQ.md)
 
 ## License
 
