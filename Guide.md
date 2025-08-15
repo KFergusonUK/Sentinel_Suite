@@ -55,3 +55,10 @@ Usernames in the list can be double clicked to see a more detailed breakdown of 
 
 Works/FPN/Inspection Analysis 
 Select a "Start" and "End" range and then click "Apply Filter". Each bar chart column can be clicked for a more detailed report on that aspect.
+
+
+## Notice Sentinel
+
+Notice Sentinel does not require any download data.  It acts as a database for your Section 50 and Road Opening Notice applications and data files, storing all files locally.
+
+Click to add either a Section 50, or a ROad Opening Notice to the filterable list.
