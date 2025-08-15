@@ -11,6 +11,7 @@ The Sentinel Suite provides a user-friendly interface for performing complex ana
 *   **FPN Sentinel:** Detects potential Fixed Penalty Notice (FPN) and Section 74 overrun candidates.
 *   **TPI Sentinel:** Calculates and visualizes local TPIs.
 *   **Management Sentinel:** A high-level dashboard for analyzing user activity, works, FPNs, and inspections.
+*   **Notice Sentinel:** Section 50 and Road Opening Notice management tool.
 
 All tools are brought together in a single, self-updating launcher for ease of use.
 
