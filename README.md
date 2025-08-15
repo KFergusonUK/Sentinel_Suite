@@ -2,7 +2,7 @@
 
 A unified suite of analysis tools for Street Manager data, designed for UK local authorities and utility companies.
 
-![Launcher Screenshot](https://github.com/KFergusonUK/Sentinel_Suite/blob/main/Launcher.jpg)  <!-- Optional but highly recommended! -->
+![Launcher Screenshot](https://github.com/KFergusonUK/Sentinel_Suite/blob/main/Launcher.jpg)   <!-- Optional but highly recommended! -->
 
 ## About The Suite
 
