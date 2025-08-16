@@ -61,4 +61,4 @@ Select a "Start" and "End" range and then click "Apply Filter". Each bar chart c
 
 Notice Sentinel does not require any download data.  It acts as a database for your Section 50 and Road Opening Notice applications and data files, storing all files locally.
 
-Click to add either a Section 50, or a ROad Opening Notice to the filterable list.
+Click to add either a Section 50, or a Road Opening Notice to the filterable list.
