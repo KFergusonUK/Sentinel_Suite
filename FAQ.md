@@ -64,4 +64,7 @@
 **Q:** I dont want to use the automatic reference number, how do i change it?\
 **A:** Simply type over the suggested reference.\
 
+**Q:** Aren't Section 50s Licenses, not Notices?\
+**A:** They are, but are also linked with N and R Notices. Essentially "License and Notice Sentinel" just sounded a bit long winded, so I shortened the name to just Notice Sentinel.\
+
  
