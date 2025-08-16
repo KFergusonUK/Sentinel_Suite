@@ -1,6 +1,6 @@
 # Sentinel Suite v1.0.0
 
-A unified suite of analysis tools for Street Manager data, and Section 50s and Road opening Notice Management, designed for UK local authorities and utility companies.
+A unified suite of analysis tools for Street Manager data, and Section 50s and Road Opening Notice Management, designed for UK local authorities and utility companies.
 
 ![Launcher Screenshot](https://github.com/KFergusonUK/Sentinel_Suite/blob/main/Launcher.jpg)   <!-- Optional but highly recommended! -->
 
