@@ -5,7 +5,7 @@
       "url": "https://github.com/KFergusonUK/Sentinel_Suite/releases/download/V1.0.0/Launcher_v1.0.0.zip"
     },
     "fpn_sentinel": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "url": "https://github.com/KFergusonUK/Sentinel_Suite/releases/download/V1.0.0/FPNSentinel_v1.0.1.zip"
     },
     "tpi_sentinel": {
@@ -17,7 +17,7 @@
       "url": "https://github.com/KFergusonUK/Sentinel_Suite/releases/download/V1.0.0/ManagementSentinel_v1.0.0.zip"
     },
     "notice_sentinel": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "url": "https://github.com/KFergusonUK/Sentinel_Suite/releases/download/V1.0.0/NoticeSentinel_v1.0.1.zip"
     }
   },
